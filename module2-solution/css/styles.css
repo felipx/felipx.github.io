@@ -22,45 +22,45 @@
     background-color: grey;
     margin: 15px;
     padding: 10px;
-    padding-top: 50px;
+    padding-top: 45px;
     color: black;
   }
 
   #title1 {
-      font-size: 125%;
-      position: absolute;
-      width: 25%;
-      padding: 2%;
-      text-align: center;
-      top: -0.5%;
-      left: 75.2%;
-      border: 1px solid black;
-      background-color: pink;
+    font-size: 125%;
+    position: absolute;
+    width: 25%;
+    padding: 5px;
+    text-align: center;
+    top: -0.5%;
+    left: 75.2%;
+    border: 1px solid black;
+    background-color: pink;
   }
   
   #title2 {
-      color: cornsilk;
-      font-size: 125%;
-      position: absolute;
-      width: 25%;
-      padding: 2%;
-      text-align: center;
-      top: -0.5%;
-      left: 75.3%;
-      border: 1px solid black;
-      background-color: brown;
+    color: cornsilk;
+    font-size: 125%;
+    position: absolute;
+    width: 25%;
+    padding: 5px;
+    text-align: center;
+    top: -0.5%;
+    left: 75.3%;
+    border: 1px solid black;
+    background-color: brown;
   }
 
   #title3 {
-      font-size: 125%;
-      position: absolute;
-      width: 25%;
-      padding: 2%;
-      text-align: center;
-      top: -0.5%;
-      left: 75.2%;
-      border: 1px solid black;
-      background-color: burlywood;
+    font-size: 125%;
+    position: absolute;
+    width: 25%;
+    padding: 5px;
+    text-align: center;
+    top: -0.5%;
+    left: 75.2%;
+    border: 1px solid black;
+    background-color: burlywood;
   }
 
   
